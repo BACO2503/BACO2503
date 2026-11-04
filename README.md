@@ -1,7 +1,7 @@
 # Hola, soy Braulio 👋
 
 Estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Tláhuac.
-Me interesa el desarrollo de software y, a futuro, Machine Learning y Ciencia de Datos.
+Me interesa el desarrollo de software y, a futuro, Machine Learning, Ciencia de Datos y el Desarrollo de Software.
 
 ## Lo que uso
 Python · Java · SQL (MySQL) · Git · Streamlit · Material UI
