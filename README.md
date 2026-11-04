@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Braulio 👋
 
-<!--
-**BACO2503/BACO2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Tláhuac.
+Me interesa el desarrollo de software y, a futuro, Machine Learning y Ciencia de Datos.
 
-Here are some ideas to get you started:
+## Lo que uso
+Python · Java · SQL (MySQL) · Git · Streamlit · Material UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certificación
+Oracle Cloud Infrastructure Certified AI Foundations Associate (septiembre 2026)
+
+## Proyectos destacados
+- **CommunityLab** – Hackathon ONE G10 LATAM (No Country): responsable de la UI en un equipo de 10 personas.
+  [Repositorio](https://github.com/No-Country-simulation/G10-LATAM-equipo-25)
+
+## Contacto
+braulioalancastroojeda@gmail.com
